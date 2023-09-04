@@ -14,7 +14,7 @@ public final class PhotoRepository {
             ,new Photo("김은서", new String[] {"/G3Sz5wp9/image.jpg","/YS3zNTVr/1.jpg","/wTm541Pb/2.jpg"}, 'P')
             //5
             ,new Photo("김응준", new String[] {"/hjKMHT60/image.jpg","/tRfyHNtk/1.jpg","/qqfWFjyZ/2.jpg","/x8yp4Y0c/3.jpg","/GhmjCvKM/4.jpg"}, 'P')
-            ,new Photo("김준우", new String[] {"/NFqfx8MQ/image.jpg","/NFqfx8MQ/image.jpg","",""}, 'P')
+            ,new Photo("김준우", new String[] {"/NFqfx8MQ/image.jpg","/NFqfx8MQ/image.jpg"}, 'P')
             ,new Photo("김준형", new String[] {"/zBMtrM0K/image.jpg","/kgfyCz5G/1.jpg","/hvWLMq2y/2.jpg","/c4W7n0g6/3.jpg","/vZHW0hvs/4.jpg","/9Q8yK9xq/5.jpg"}, 'P')
             ,new Photo("김채연", new String[] {"/VLzMNgpC/image.jpg","/BbpjDWk1/1.jpg","/RVP3ZBwk/2.jpg","/hjqv5Pqd/3.jpg"}, 'P')
             ,new Photo("남가현", new String[] {"/g2Q1dxjn/image.jpg","/fL2cn9WP/1.jpg","/cLxfHhKz/2.jpg","/4yGm04V0/3.jpg","/X77vBz89/4.jpg"}, 'P')
@@ -38,7 +38,7 @@ public final class PhotoRepository {
             ,new Photo("조재형", new String[] {}, 'P')
             //25
             ,new Photo("최은지", new String[] {"/k5HY3SZp/image.jpg","/NGmJS5xd/1.jpg","/sg6w7SVg/2.jpg","/RhLTFJs9/3.jpg"}, 'P')
-            ,new Photo("한지원", new String[] {}, 'P')
+            ,new Photo("한지원", new String[] {"/ZR8VGCXy/min.jpg","/RF5SZDhn/1.jpg","/XNxbRJf5/2.jpg","/FKvCFbmH/3.jpg","/hPxHStxM/4.jpg"}, 'P')
             ,new Photo("한지윤", new String[] {"/tQHrsBK/image.png","/c67hRJm/1.png","/DbDSxNB/2.png","/s2gK8Tx/3.png","/6XBWP94/4-min.png","/ZYTrT1s/5-min.png"}, 'I')
             ,new Photo("황서현", new String[] {"/rpmNdb9V/image.jpg","/SsMfy9yk/1.jpg","/SRDKzZd4/2.jpg","/9X8VZqVc/3.jpg"}, 'P')
             ,new Photo("DI JINGXIAN", new String[] {"/T2V04BCw/DI-JINGXIAN.jpg","/DfNCs1jQ/DI-JINGXIAN-1.jpg","/kgYF3m0Q/DI-JINGXIAN-2.jpg","/4NDs87dV/DI-JINGXIAN-3.jpg","/KvSmf34L/DI-JINGXIAN-4.jpg"}, 'P')
