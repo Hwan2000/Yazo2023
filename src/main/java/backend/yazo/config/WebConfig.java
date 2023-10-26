@@ -14,6 +14,7 @@ public class WebConfig implements WebMvcConfigurer {
     public void addCorsMappings(CorsRegistry corsRegistry){
         corsRegistry.addMapping("/**")
                 .allowedOriginPatterns("https://www.2023hogikyajo.com", "http://localhost:3000","https://2023yajo.github.io")
+                .allowedHeaders("Origin", "Content-Type", "Accept")
                 .allowedMethods("GET");
     }
 }
