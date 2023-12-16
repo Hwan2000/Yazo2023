@@ -17,7 +17,7 @@ public class WebConfig implements WebMvcConfigurer {
                         "https://www.2023hogikyajo.com",
                         "http://localhost:3000",
                         "https://2023yajo.github.io",
-                        "http://2023hongikyajo.com"
+                        "https://2023hongikyajo.com"
                 )
                 .allowedHeaders("Origin", "Content-Type", "Accept")
                 .allowedMethods("GET");
